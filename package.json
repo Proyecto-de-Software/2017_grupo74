@@ -42,7 +42,7 @@
     "jsonwebtoken": "^8.2.0",
     "key-mirror": "^1.0.1",
     "limax": "^1.6.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.13",
     "moment": "^2.21.0",
     "moment-timezone": "^0.5.14",
     "mongo-sanitize": "^1.0.0",
