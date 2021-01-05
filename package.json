@@ -21,7 +21,7 @@
   },
   "homepage": "https://gitlab.catedras.linti.unlp.edu.ar/proyecto2017/grupo74#readme",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.2",
     "chart.js": "^2.7.2",
