@@ -73,7 +73,7 @@
     "redux-form": "^7.3.0",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.2.0",
-    "sanitize-html": "^1.18.2",
+    "sanitize-html": "^2.3.2",
     "semantic-ui-css": "^2.3.1",
     "semantic-ui-react": "^0.78.3",
     "underscore": "^1.9.0",
