@@ -43,7 +43,7 @@
     "key-mirror": "^1.0.1",
     "limax": "^1.6.0",
     "lodash": "^4.17.5",
-    "moment": "^2.21.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.14",
     "mongo-sanitize": "^1.0.0",
     "mongoose": "^5.0.9",
