@@ -39,7 +39,7 @@
     "img-loader": "^2.0.1",
     "immutable": "^3.8.2",
     "js-cookie": "^2.2.0",
-    "jsonwebtoken": "^8.2.0",
+    "jsonwebtoken": "^9.0.0",
     "key-mirror": "^1.0.1",
     "limax": "^1.6.0",
     "lodash": "^4.17.5",
